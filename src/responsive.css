@@ -1,0 +1,144 @@
+@media screen and (max-width: 1299px) {
+    .verical_buttons {
+        position: absolute;
+        z-index: 1;
+        transform: rotate(0deg);
+        right: 2rem;
+        top: 4rem;
+    }
+
+    marquee h1 {
+        font-size: 4rem;
+
+    }
+
+    .vido_first {
+        margin-top: 76vh;
+    }
+
+}
+
+@media screen and (max-width: 769px) {
+    .verical_buttons {
+        left: 0;
+        top: 7rem;
+        width: max-content;
+    }
+
+    .vido_first {
+        margin-top: 67vh;
+    }
+
+    marquee h1 {
+        font-size: 2rem;
+
+    }
+
+    .verical_buttons a {
+        margin: 0 !important;
+    }
+
+    .navigation {
+        margin-top: 0;
+    }
+
+    .overlay .overlay_heading h1 {
+        font-size: 3rem;
+    }
+
+    .case-study-challenges-1 {
+        display: none !important;
+    }
+
+    .case-study-solution-1 {
+        display: none !important;
+    }
+
+    .circle12 {
+        display: none !important;
+    }
+
+    .case-study-solution {
+        display: none !important;
+    }
+
+    .case-study-challenges {
+        display: none !important;
+
+    }
+
+    .case-study-solution-2 {
+        display: none !important;
+    }
+
+    .case-study-solution-3 {
+        display: none !important;
+    }
+}
+
+
+@media screen and (max-width: 480px) {
+    a.back_button {
+        margin: 0 !important;
+    }
+
+    .case-study-challenges-1 {
+        display: none !important;
+    }
+
+    .case-study-solution-1 {
+        display: none !important;
+    }
+
+    .circle12 {
+        display: none !important;
+    }
+
+    .case-study-solution {
+        display: none !important;
+    }
+
+    .case-study-challenges {
+        display: none !important;
+
+    }
+
+    .case-study-solution-2 {
+        display: none !important;
+    }
+
+    .case-study-solution-3 {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .case-study-challenges-1 {
+        display: none !important;
+    }
+
+    .case-study-solution-1 {
+        display: none !important;
+    }
+
+    .circle12 {
+        display: none !important;
+    }
+
+    .case-study-solution {
+        display: none !important;
+    }
+
+    .case-study-challenges {
+        display: none !important;
+
+    }
+
+    .case-study-solution-2 {
+        display: none !important;
+    }
+
+    .case-study-solution-3 {
+        display: none !important;
+    }
+}
